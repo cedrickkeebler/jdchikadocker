@@ -1,3 +1,3 @@
-FROM ghcr.io/cedrickkeebler/jdchika:master
+FROM cedrickkeebler/app:latest
 WORKDIR /app
 COPY . .
