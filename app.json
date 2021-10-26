@@ -1,0 +1,9 @@
+{
+"env": {
+    "CONFIG_FILE_URL": {
+      "description": "Setting this to ANYTHING will enable webhooks when in env mode",
+      "value": "https://gist.githubusercontent.com/cedrickkeebler/6ade4e87ed6f3d1e9c9d9689aeb6eaec/raw/config.env"
+    }
+  },
+  "stack": "container"
+}
